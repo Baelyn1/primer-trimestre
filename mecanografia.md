@@ -7,3 +7,4 @@ Aquí hablo de la mecanografía que hago.
 
 ### 15 de septiembre
 
+![](https://raw.githubusercontent.com/umershahzad12/primer-trimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2012-16-39.png)
