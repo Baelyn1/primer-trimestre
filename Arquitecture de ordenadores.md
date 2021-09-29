@@ -217,7 +217,7 @@ Recíbelo entre el lunes 4 y el miércoles 6 de octubre
 99€
 
 
-
+ 
 
 ### Ejercicios de conversion
 
@@ -225,4 +225,131 @@ How much is 100000 in binary?
 
 
 How much is 100010111100100111 in decimal?
+
+
+
+
+ ARQUITECTURE de ordenadores MD
+
+
+
+aqui esta los apuntas sobre arquitecture de ordenadores 
+
+
+[https://informaticaenmicasa.com/wp-content/uploads/2014/06/placa-base-1.png]  
+
+
+
+## binary  
+
+
+
+## Tarjeta gráfica
+
+### que es gpu?
+
+
+El procesador gráfico. Denominado GPU (Unidad de Procesamiento Gráfico) 
+Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
+para obtener la imagen final. Igual que el procesador del ordenador, el procesador de la TG 
+trabaja a una determinada velocidad o frecuencia de reloj, expresada en megahercios (de 
+200  a  500  MHz).  Para  evitar  su  deterioro  por  calentamiento,  deben  ser  refrigerados 
+mediante disipadores térmicos, a los que se añade, generalmente, un pequeño ventilador. 
+
+
+
+
+### que es memoria grafica?
+
+
+La memoria gráfica. Es  una memoria de tipo RAM en la que se almacena gran parte de la 
+información gráfica que debe procesar la GPU. Otra parte de dicha información gráfica puede 
+almacenarse en la memoria RAM de la placa base, debiendo acceder a ella la tarjeta a través 
+del puente norte. La memoria gráfica se caracteriza por su  capacidad, (expresada en MB), 
+por  su  velocidad  de  trabajo  (expresada  en  MHz)  y  por  el  tipo  (DDR,  DDR2,  GDDR3).  La 
+tarjetas actuales suelen tener entre 512 MB  y 4 GB de capacidad y funcionan a frecuencias 
+comprendidas entre 200 MHz y 1000 MHz, aproximadamente.
+
+
+##  tipo de interfaz?
+
+
+- AGP  8X. Es la última versión del bus AGP, que se caracteriza por un ancho de banda 
+(por ejemplo de 2 GB/s) en el sentido placa base -> tarjeta y otro (por ejemplo de 266 
+MB/s) en el sentido inverso (en el ejemplo, 2,26 GB/s en total).
+- PCI-Express 16X. Sistema de bus para tarjetas gráficas, cuyo ancho de banda es de 4 
+GB/s en ambos sentidos (8 GB/s en total). El acceso a la memoria RAM de la placa base 
+está gestionado por hardware desde el propio procesador gráfico. Ahora mismo es más 
+rápido que AGP. 
+
+
+### Tipos de conexiones externas?
+
+- Puerto  VGA.  Emite  una  señal  de  video  analógica,  apta  para  monitores  de  tipo  CRT 
+(normales). 
+- Puerto DVI. Emite una señal de video digital, que suelen utilizar los monitores de tipo 
+LCD plano. 
+- Puerto S-Video. Emite una señal de video analógica, apta para un televisor o un vídeo
+ 
+
+### Discos duros 
+
+#### formateo y sectores 
+
+El configurador de PC de PcComponentes es la herramienta perfecta para que elijas una a una las piezas de tu ordenador y pruebes distintas configuraciones y presupuestos. Además, podrás guardar tu configuración, imprimirla o generar un enlace para compartirlo en tus redes sociales. También puedes dejarte llevar por las recomendaciones de nuestros expertos y consultar las mejores configuraciones de pc sobremesa básico, gaming o profesional que salen de nuestro taller de montaje. ¿Se puede pedir más?
+
+LAS CONFIGURACIONES DE NUESTROS EXPERTOS
+
+Para
+
+ESTUDIANTES
+
+Workstation para
+
+TELETRABAJO
+
+ 	
+
+Estás de acuerdo con el Sr. Victor Küppers...
+1) con respecto a la actitud?
+Si, me parece que mucha gente debería trabajar en ello, ya que el cambio te hace mejor.
+
+
+2) y esforzarse en la vida?
+También estoy de acuerdo, nada es fácil, y si uno se esfuerza en algo que quiere puede hacer cualquier cosa que se proponga.
+
+
+3) QUÉ ES AQUELLO QUE HACES MUY BIEN? Cuál es tu "don"?
+Se me da muy bien escuchar y ayudar a los demás, me hace muy feliz ayudar y hacer feliz al resto.
+
+
+4) QUÉ TE APASIONA?
+Me apasiona la informática.
+
+
+5) Y dónde/cómo te puedes ganar la vida con esto que te apasiona y haces muy bien?
+Con la informática puedo ganarme la vida en tiendas o empresas especializadas.
+
+
+6) Y cómo puedes ayudar/colaborar a la Sociedad con ese "don"/trabajo que tienes?
+Puedo utilizarlo para ayudar a otras empresas, por ejemplo, construirles mejores ordendores para que puedan trabajar o investigar mejor o progamar alguna aplicación que pueda ser de ayuda para algunas personas.
+
+
+Estás de acuerdo con Víctor K. con respecto a la "amabilidad", el "ser amable con los demás"?
+Si, y mucho, creo que pocas cosas hacen más feliz que alegrarle el día a otra persona con el simple hecho de ser amable.
+
+
+Según Victor K: 
+¿"Cuándo una sociedad es rica"?
+Una sociedad es rica por la caridad humana.
+
+
+¿Qué 2 palabras considera que están en "desuso"?
+Las dos palabras que considera que están en desuso son "por favor" y gracias".
+
+
+¿Cón qué compara Victor K. las "relaciones humanas"?
+Victor Küppers compara las relaciones humanas con las plantas, considera que si no "riegas" una relación, que si no le dedicas tiempo y cariño, la relación muere, como en el caso de una planta si no la riegas.
+
+
 
