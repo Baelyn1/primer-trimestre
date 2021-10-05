@@ -296,7 +296,7 @@ LCD plano.
 
 #### formateo y sectores 
 
-El configurador de PC de PcComponentes es la herramienta perfecta para que elijas una a una las piezas de tu ordenador y pruebes distintas configuraciones y presupuestos. Además, podrás guardar tu configuración, imprimirla o generar un enlace para compartirlo en tus redes sociales. También puedes dejarte llevar por las recomendaciones de nuestros expertos y consultar las mejores configuraciones de pc sobremesa básico, gaming o profesional que salen de nuestro taller de montaje. ¿Se puede pedir más?
+
 
 LAS CONFIGURACIONES DE NUESTROS EXPERTOS
 
@@ -309,6 +309,39 @@ Workstation para
 TELETRABAJO
 
 
+CAPACITIES AND MODELS:
+1TB WDBB9J0010BNC-NRSN500GB WDBB9J5000ANC-NRSN
+
+
+INTERFACE:
+PCIe® Gen48
+
+DIMENSIONS:
+LENGTH: 80 ± 0.15mmWIDTH:  22 ± 0.15mmHEIGHT: 2.38mm WEIGHT: 7.5g ± 1g
+
+
+
+ENDURANCE10 (TBW):
+1TB: 600500GB:  300
+
+
+PERFORMANCE9:
+■ Sequential Read:1TB: 3,600MB/s500GB: 3,600MB/s■ Sequential Write:1TB: 2,830MB/s500GB: 2,000MB/s■ Random Read:1TB: 525K IOPS500GB: 360K IOPS■ Random Write:1TB: 640K IOPS500GB: 480K IOPS
+
+
+OPERATING SPECIFICATIONS:OPERATING TEMPERATURE11:
+32°F to 158°F (0°C to 70°C)  
+NON-OPERATING TEMPERATURE12:
+-67°F to 185°F (-55°C to 85°C)
+
+
+SYSTEM COMPATIBILITY:
+■ BACKWARD COMPATIBLE WITH
+PCIe Gen3 x2, PCIe Gen3 x1,PCIe Gen2 x4, PCIe Gen2 x2,and PCIe Gen2 x1■ Windows® 8.1, 10
+
+
+LIMITED WARRANTY:
+5 Years7
 
 
 
