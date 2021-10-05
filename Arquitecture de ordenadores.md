@@ -308,48 +308,7 @@ Workstation para
 
 TELETRABAJO
 
- 	
 
-Estás de acuerdo con el Sr. Victor Küppers...
-1) con respecto a la actitud?
-Si, me parece que mucha gente debería trabajar en ello, ya que el cambio te hace mejor.
-
-
-2) y esforzarse en la vida?
-También estoy de acuerdo, nada es fácil, y si uno se esfuerza en algo que quiere puede hacer cualquier cosa que se proponga.
-
-
-3) QUÉ ES AQUELLO QUE HACES MUY BIEN? Cuál es tu "don"?
-Se me da muy bien escuchar y ayudar a los demás, me hace muy feliz ayudar y hacer feliz al resto.
-
-
-4) QUÉ TE APASIONA?
-Me apasiona la informática.
-
-
-5) Y dónde/cómo te puedes ganar la vida con esto que te apasiona y haces muy bien?
-Con la informática puedo ganarme la vida en tiendas o empresas especializadas.
-
-
-6) Y cómo puedes ayudar/colaborar a la Sociedad con ese "don"/trabajo que tienes?
-Puedo utilizarlo para ayudar a otras empresas, por ejemplo, construirles mejores ordendores para que puedan trabajar o investigar mejor o progamar alguna aplicación que pueda ser de ayuda para algunas personas.
-
-
-Estás de acuerdo con Víctor K. con respecto a la "amabilidad", el "ser amable con los demás"?
-Si, y mucho, creo que pocas cosas hacen más feliz que alegrarle el día a otra persona con el simple hecho de ser amable.
-
-
-Según Victor K: 
-¿"Cuándo una sociedad es rica"?
-Una sociedad es rica por la caridad humana.
-
-
-¿Qué 2 palabras considera que están en "desuso"?
-Las dos palabras que considera que están en desuso son "por favor" y gracias".
-
-
-¿Cón qué compara Victor K. las "relaciones humanas"?
-Victor Küppers compara las relaciones humanas con las plantas, considera que si no "riegas" una relación, que si no le dedicas tiempo y cariño, la relación muere, como en el caso de una planta si no la riegas.
 
 
 
